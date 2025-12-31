@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mei / Juh
 
-<!--
-**JuhVS/JuhVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer 
+🐧 Linux User
+📘 Cybersecurity Enthusiast (learning)
 
-Here are some ideas to get you started:
+### Tech
+**Proficient**
+- Lua & Luau (Roblox)
+- Python
+- Git / Linux Shell
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Familiar with**
+- JavaScript
+- SQL
+- Apache
+- REST APIs (Flask / FastAPI)
+
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhVS&show_icons=true)

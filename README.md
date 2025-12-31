@@ -4,9 +4,6 @@
 🐧 Linux User  
 📘 Cybersecurity Enthusiast (learning)
 
-
-### Tech
-
 **Proficient**
 <table>
 <tr>
